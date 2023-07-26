@@ -19,3 +19,6 @@
 9. Chi-Squared Distribution: Frequently used in hypothesis testing and confidence interval estimation, particularly in the context of the chi-squared test.
 
 10. F-Distribution: Used in statistical inference, particularly in analysis of variance (ANOVA) and regression analysis.
+
+
+### Applications  
