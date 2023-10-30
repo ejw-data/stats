@@ -34,7 +34,7 @@
 
 ![image1](./images/heuristics_2023_04_30_78.png)  
 
-![image1](./images/hypothesis_testing_2023_04_30_50.png)  
+![image1](./images/hypothesis_testing2_2023_10_30_45.png)  
 
 <table style="border: 1px solid black;">
     <tr style="border: 1px solid black;">
