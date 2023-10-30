@@ -12,7 +12,11 @@
 1.  Normality Tests
 
 
-
+## Packages
+* Scipy
+* Statsmodels
+* pyMC3
+* [pingouin](https://pingouin-stats.org/build/html/index.html)
 
 
 
